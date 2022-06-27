@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boy-ish
-- 👀 I’m interested in Sound Designe for Video Games
+- 👀 I’m interested in Sound Design for Video Games
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Game Jams and Game Dev
 - 📫 How to reach me ...
